@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0"
+  xmlns:atom="http://www.w3.org/2005/Atom"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Hexo Template</title>
+    <link>https://maxzhuo.githb.io/</link>
+    
+    <image>
+      <url>https://maxzhuo.githb.io/icon.png</url>
+      <title>Hexo Template</title>
+      <link>https://maxzhuo.githb.io/</link>
+    </image>
+    
+    <atom:link href="https://maxzhuo.githb.io/rss2.xml" rel="self" type="application/rss+xml"/>
+    
+    <description></description>
+    <pubDate>Mon, 05 Sep 2022 16:41:47 GMT</pubDate>
+    <generator>http://hexo.io/</generator>
+    
+    <item>
+      <title>Hexo Template</title>
+      <link>https://maxzhuo.githb.io/hello-template/</link>
+      <guid>https://maxzhuo.githb.io/hello-template/</guid>
+      <pubDate>Mon, 05 Sep 2022 16:41:47 GMT</pubDate>
+      
+        
+        
+          
+          
+      <description>&lt;blockquote&gt;
+&lt;p&gt;A fast, simple &amp;amp; powerful blog framework, powered by &lt;a href=&quot;https://nodejs.org/&quot;&gt;Node.js&lt;/a&gt;. Here is the template of</description>
+          
+        
+      
+      
+      
+      
+      
+      
+      <comments>https://maxzhuo.githb.io/hello-template/#disqus_thread</comments>
+      
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Hexo Template</title>
+  <icon>https://maxzhuo.githb.io/icon.png</icon>
+  
+  <link href="https://maxzhuo.githb.io/atom.xml" rel="self"/>
+  
+  <link href="https://maxzhuo.githb.io/"/>
+  <updated>2022-09-05T16:41:47.418Z</updated>
+  <id>https://maxzhuo.githb.io/</id>
+  
+  <author>
+    <name>XiaoZhuo</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Hexo Template</title>
+    <link href="https://maxzhuo.githb.io/hello-template/"/>
+    <id>https://maxzhuo.githb.io/hello-template/</id>
+    <published>2022-09-05T16:41:47.418Z</published>
+    <updated>2022-09-05T16:41:47.418Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;blockquote&gt;
+&lt;p&gt;A fast, simple &amp;amp; powerful blog framework, powered by &lt;a href=&quot;https://nodejs.org/&quot;&gt;Node.js&lt;/a&gt;. Here is the template of</summary>
+        
+      
+    
+    
+    
+    
+  </entry>
+  
+</feed>
