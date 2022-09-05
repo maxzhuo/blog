@@ -3,7 +3,7 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Hexo Template
+title: XiaoZhuo
 subtitle: ''
 description: ''
 keywords:
@@ -114,8 +114,8 @@ bangumis:
   color_summary: "#d7ecff"  # 追番项简介的颜色
   bgmtv_uid: xzhuo          # bgm.tv的uid
   download_image: true      # 下载图片并使用本地图片，否则使用bgm.tv提供的网络图源
-  image_level: l            # 图片高清等级 (l, c, m, s, g)
-  lazyload: false           # 是否开启懒加载
+  image_level: c            # 图片高清等级 (l, c, m, s, g)
+  lazyload: true            # 是否开启懒加载
   margin: 0                 # 封面图的偏移量微调
 
 friends:
