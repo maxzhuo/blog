@@ -1,0 +1,44 @@
+# Logo (Font Awesome Class)
+fa_logo: fa-cube
+
+# Header
+menu:
+  Home: /
+  Archives: /archives
+  Bangumis: /bangumis
+  Friends: /friends
+  Tags: /tags
+  Categories: /categories
+
+# Default post title
+default_post_title: Untitled
+
+# Archive Date Format
+archive_date_format: MMM YYYY
+
+# Comments.
+comments:
+  # Disqus comments
+  disqus_shortname:
+
+# Google Analytics Tracking ID
+google_analytics:
+
+# Social Accounts
+# twitter_url: https://twitter.com/?lang=en
+# facebook_url: https://www.facebook.com/
+# instagram_url: https://www.instagram.com/
+# dribble_url: https://dribbble.com/
+github_url: https://github.com/maxzhuo
+# telegram_url: https://telegram.org/
+# behance_url: https://www.behance.net/
+# fivehundredpx_url: https://500px.com/
+email_url: 421634037@qq.com
+rss_url: atom.xml
+
+# Footer About Text
+footer_about: "This is my blog, welcome to visit here and read my posts."
+
+# Footer Copyright Line
+footer_copyright: "@maxzhuo. All right reserved | Design & Hexo <a href=\"http://www.codeblocq.com/\">Jonathan Klughertz</a>"
+

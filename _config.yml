@@ -97,7 +97,7 @@ ignore:
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: landscape
+theme: alpha-dust
 
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
@@ -110,11 +110,53 @@ bangumis:
   show: 2                   # 想看，在看，看完
   title: '追番列表'          # 标题
   quote: '生命不息，追番不止' # 格言
-  color_meta: "#555"        # 追番项元数据的颜色
-  color_summary: "#555"     # 追番项简介的颜色
+  color_meta: "#d7ecff"     # 追番项元数据的颜色
+  color_summary: "#d7ecff"  # 追番项简介的颜色
   bgmtv_uid: xzhuo          # bgm.tv的uid
   download_image: true      # 下载图片并使用本地图片，否则使用bgm.tv提供的网络图源
   image_level: l            # 图片高清等级 (l, c, m, s, g)
   lazyload: false           # 是否开启懒加载
-  margin: 20px              # 封面图的偏移量微调
+  margin: 0                 # 封面图的偏移量微调
 
+friends:
+  enable: true
+  title: Friends
+  description: 
+  path: friends/index.html
+  data:
+    - group: 海内存知己，天涯若比邻
+      description: 感谢人生旅途中每一份真挚的友谊
+      items:
+        - name: 吉吉博客
+          url: https://mmdjiji.com
+          img: https://mmdjiji.com/images/avatar.png
+          description: 自古吉吉萌萌哒 ( •̀ ω •́ )✧
+    #     - name: Site 2
+    #       url: https://example.com
+    #       img: https://example.com/avatar.png
+    #       description: The introduction of site 2
+    # - group: Group B
+    #   description: The introduction of group B
+    #   items:
+    #     - name: Site 1
+    #       url: https://example.com
+    #       img: https://example.com/avatar.png
+    #       description: The introduction of site 1
+
+feed:
+  enable: true
+  type: 
+   - atom
+   - rss2
+  path: 
+   - atom.xml
+   - rss2.xml
+  limit: 20
+  hub:
+  content:
+  content_limit: 140
+  content_limit_delim: ' '
+  order_by: -date
+  icon: icon.png
+  autodiscovery: true
+  template:
